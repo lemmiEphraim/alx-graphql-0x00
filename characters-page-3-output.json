@@ -1,1 +1,21 @@
-
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Big Boobed Waitress",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Big Head Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        // ... (other characters from page 3)
+      ]
+    }
+  }
+}
